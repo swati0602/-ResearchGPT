@@ -156,6 +156,4 @@ Add screenshots here after running the application:
 
 Swati Shinde
 
-BSc Information Technology
-
 AI • Blockchain • Full-Stack Development
